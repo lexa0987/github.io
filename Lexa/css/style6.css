@@ -1,0 +1,17 @@
+.modal{
+  padding: 50px;
+  background: #ccc;
+  position: fixed; top: 50%; left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border-radius: 30px;
+  
+}
+.f{
+	 padding-top: 15px;
+}
+.s{
+	 padding-top: 15px;
+}
